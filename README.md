@@ -5,12 +5,12 @@ This is the second project I completed as part of the course on Python for Data 
 ---
 
 ## 📋 **Table of Contents**
-- [Project Description]
-- [Technologies Used]
-- [Installation]
-- [Usage]
-- [Example Data]
-- [MOST Important Note]
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example Data](#example-data)
+- [MOST Important Note](#most-important-note)
 
 ---
 
